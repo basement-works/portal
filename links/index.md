@@ -1,3 +1,3 @@
 ---
-target: https://basementworks.now.sh
+target: https://basement-works.vercel.app
 ---

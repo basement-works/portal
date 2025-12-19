@@ -1,5 +1,5 @@
 {
-	"name": "@basement-works/link.bsmnt.pro",
+	"name": "@basement-works/portal",
 	"version": "1.0.0",
 	"description": "a serverless & minimalist URL shortener that doesn't try to do too much.",
 	"main": "index.js",
