@@ -6,7 +6,7 @@ SLUG=$2
 usage() {
     cat << EOF
 
-  link.bsmnt.pro — a serverless & minimalist URL shortener that doesn't try to do too much.
+  portal — a serverless & minimalist URL shortener that doesn't try to do too much.
 
   Usage:
       ./generate <url to redirect> <slug>
